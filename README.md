@@ -18,8 +18,16 @@ The main steps here are:
 Some examples of open datasets can be found here https://github.com/datasets/awesome-data
 
 # Steps for working with open data
-Sometimes it is not enough to make the data open, while it is also needed to show and demonstrate some the simplest examples of the datasets. Here we can take examples from open health data from Monster mizer project, which CorrelAid Paris has been working on: 
+Sometimes it is not enough to make the data open. It is also needed to show and demonstrate some the simplest examples of the datasets. Here we can take examples from open health data from Monster mizer project, which CorrelAid Paris has been working on: 
+https://github.com/Liyubov/MonsterMizer
 
+Since tools for working with the data are changing all the time, we cannot rely on work of only one person, hence we may need to use so-called "collective intelligence" force, often used in open source projects. 
+Best practices for working with open source projects can be found here 
+1. Documentation of open source projects https://opensource.com/article/17/1/tips-using-wiki-documentation
+2. Reproducibility of open source projects
+Often in open source projects there exist several types of contributors: 
+core, supporters, testers. 
+For each of those roles in a team you may need to have particular contribution guidelines. 
 
 ## Links 
 CorrelAid https://github.com/correlaid-paris 
