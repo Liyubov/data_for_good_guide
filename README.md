@@ -29,7 +29,11 @@ Often in open source projects there exist several types of contributors:
 core, supporters, testers. 
 For each of those roles in a team you may need to have particular contribution guidelines. 
 
-## Links 
-CorrelAid https://github.com/correlaid-paris 
+# Examples 
+1. Example of documentation of projects https://epidemicsonnetworks.readthedocs.io/en/latest/ 
+2. Example of team work on open sources 
+3. Example of best practices for documenting open projects https://app.jogl.io/community/49
 
-Best practices for documenting open projects https://app.jogl.io/community/49
+
+## Links 
+CorrelAid data for good communities https://github.com/correlaid-paris 
