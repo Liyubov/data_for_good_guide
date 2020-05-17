@@ -2,12 +2,10 @@
 This repository is dedicated to the follow-up after the workshop with the Royal Society workshop in UK in March 2020. 
 https://royalsociety.org/topics-policy/projects/data-governance/
 
-## Contributions 
-The question is:
-“What practical steps can you or your organisation take to help move forward some of the points that have been raised in the discussions?”    
-
-Here I document and visualise concepts of data pre-processing and making data open.
-The main idea is also to structure of concise examples of data (e.g. framework support materials for data analysis).
+Here we focus on the main questions:
+1. to document and visualise the process of making data open;
+2. to pre-process and show the data for people showing some main points from the data (especially to people who rarely work with the data);
+3. to structure concise examples of data (e.g. framework support materials for data analysis).
 
 # Steps for sharing and making data open
 Some of best practices for documenting and packaging the data were described in https://frictionlessdata.io/ 
