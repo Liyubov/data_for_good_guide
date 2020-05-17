@@ -13,6 +13,9 @@ The main steps here are:
 1. checking and verifying licences of data 
 2. contacting the owners of the data if this is not clear 
 3. putting the datasets on servers (here there are many various technical solutions which may be needed)
+
+For more links and details see https://okfn.org/opendata/how-to-open-data/ 
+
 Some examples of open datasets can be found here https://github.com/datasets/awesome-data
 
 # Steps for working with open data
