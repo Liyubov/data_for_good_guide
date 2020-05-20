@@ -20,6 +20,7 @@ The main steps of making data open are:
 3. putting the datasets on servers (here there are many various technical solutions which may be needed)
 
 For more links and details see https://okfn.org/opendata/how-to-open-data/ 
+For more references on open data resources see https://github.com/rufuspollock/LearnOpenData/blob/master/OpenDataResources.md
 
 Some examples of open datasets can be found here https://github.com/datasets/awesome-data
 
