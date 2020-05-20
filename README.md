@@ -11,8 +11,8 @@ Here we focus on the main questions:
 Some of best practices for documenting and packaging the data were described in https://frictionlessdata.io/ 
 
 Before talking about open data we should first talk about steps for data cleaning, making data in "tidy data" format
-
-![alt text](https://github.com/Liyubov/data_for_good_guide/blob/master/images_visualisation/20200519_111235.jpg)
+To read more about tidy data one can go to wikipedia general article [here](https://en.wikipedia.org/wiki/Tidy_data)
+![alt text](https://github.com/Liyubov/data_for_good_guide/blob/master/images_visualisation/datacleaned.png)
 
 The main steps of making data open are: 
 1. checking and verifying licences of data 
