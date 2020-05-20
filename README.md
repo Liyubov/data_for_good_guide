@@ -9,7 +9,12 @@ Here we focus on the main questions:
 
 # Steps for sharing and making data open
 Some of best practices for documenting and packaging the data were described in https://frictionlessdata.io/ 
-The main steps here are: 
+
+Before talking about open data we should first talk about steps for data cleaning, making data in "tidy data" format
+
+![alt text](https://github.com/Liyubov/data_for_good_guide/blob/master/images_visualisation/20200519_111235.jpg)
+
+The main steps of making data open are: 
 1. checking and verifying licences of data 
 2. contacting the owners of the data if this is not clear 
 3. putting the datasets on servers (here there are many various technical solutions which may be needed)
