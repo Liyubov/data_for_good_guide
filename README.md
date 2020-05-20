@@ -8,8 +8,6 @@ Here we focus on the main questions:
 3. to structure concise examples of data (e.g. framework support materials for data analysis).
 
 # Steps for sharing and making data open
-Some of best practices for documenting and packaging the data were described in https://frictionlessdata.io/ 
-
 Before talking about open data we should first talk about steps for data cleaning, making data in "tidy data" format
 To read more about tidy data one can go to wikipedia general article [here](https://en.wikipedia.org/wiki/Tidy_data)
 ![alt text](https://github.com/Liyubov/data_for_good_guide/blob/master/images_visualisation/datacleaned.png)
@@ -19,10 +17,11 @@ The main steps of making data open are:
 2. contacting the owners of the data if this is not clear 
 3. putting the datasets on servers (here there are many various technical solutions which may be needed)
 
-For more links and details see https://okfn.org/opendata/how-to-open-data/ 
-For more references on open data resources see https://github.com/rufuspollock/LearnOpenData/blob/master/OpenDataResources.md
-
-Some examples of open datasets can be found here https://github.com/datasets/awesome-data
+For more links and details see 
+1. OKFN links https://okfn.org/opendata/how-to-open-data/ 
+2. For more references on open data resources see https://github.com/rufuspollock/LearnOpenData/blob/master/OpenDataResources.md
+3. Some of best practices for documenting and packaging the data were described in https://frictionlessdata.io/ 
+4. Some examples of open datasets can be found on awesome data project https://github.com/datasets/awesome-data
 
 # Steps for working with open data
 Sometimes it is not enough to make the data open. It is also needed to show and demonstrate some the simplest examples of the datasets. Here we can take examples from open health data from Monster mizer project, which CorrelAid Paris has been working on: 
