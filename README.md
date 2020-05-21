@@ -13,9 +13,11 @@ To read more about tidy data one can go to wikipedia general article [here](http
 ![alt text](https://github.com/Liyubov/data_for_good_guide/blob/master/images_visualisation/datacleaned.png)
 
 The main steps of making data open are: 
-1. checking and verifying licences of data 
-2. contacting the owners of the data if this is not clear 
-3. putting the datasets on servers (here there are many various technical solutions which may be needed)
+0. tidying and working with raw data
+1. checking and verifying licenses of data: since we need to apply an open license and determine what intellectual property rights exist in the data; apply a suitable ‘open’ license that licenses all of these rights and supports the definition of openness;
+2. contacting the owners of the data if this is not clear;
+3. putting the datasets on servers (here there are many various technical solutions which may be needed): advice from OKFN to make the data available. In bulk and in a useful format. You may also wish to consider alternative ways of making it available such as via an application programming interface (API).
+4. spreading the word about your beautiful open data: remember that example of people making some data open may inspire other people to make other data open.
 
 For more links and details see 
 1. OKFN links https://okfn.org/opendata/how-to-open-data/ 
