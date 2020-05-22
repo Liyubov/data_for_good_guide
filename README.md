@@ -19,6 +19,8 @@ The main steps of making data open are:
 3. putting the datasets on servers (here there are many various technical solutions which may be needed): advice from OKFN to make the data available. In bulk and in a useful format. You may also wish to consider alternative ways of making it available such as via an application programming interface (API).
 4. spreading the word about your beautiful open data: remember that example of people making some data open may inspire other people to make other data open.
 
+![alt text](https://github.com/Liyubov/data_for_good_guide/blob/master/images_visualisation/20200522_160441.jpg)
+
 For more links and details see 
 1. OKFN links https://okfn.org/opendata/how-to-open-data/ 
 2. For more references on open data resources see https://github.com/rufuspollock/LearnOpenData/blob/master/OpenDataResources.md
