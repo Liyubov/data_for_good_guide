@@ -1,4 +1,5 @@
 # Data for good guide
+
 This repository is dedicated to the follow-up after the workshop with the Royal Society workshop in UK in March 2020. 
 https://royalsociety.org/topics-policy/projects/data-governance/
 
@@ -6,6 +7,8 @@ Here we focus on the main questions:
 1. to document and visualise the process of making data open;
 2. to pre-process and show the data for people showing some main points from the data (especially to people who rarely work with the data);
 3. to structure concise examples of data (e.g. framework support materials for data analysis).
+
+*work in progress*
 
 # Steps for sharing and making data open
 Before talking about open data we should first talk about steps for data cleaning, making data in "tidy data" format
@@ -39,11 +42,11 @@ Often in open source projects there exist several types of contributors:
 core, supporters, testers. 
 For each of those roles in a team you may need to have particular contribution guidelines. 
 
-# Examples 
+# Examples  and links
 1. Example of documentation of projects https://epidemicsonnetworks.readthedocs.io/en/latest/ 
 2. Example of team work on open sources (forked repository) https://github.com/Liyubov/scikit-network/tree/master/sknetwork
 3. Example of best practices for documenting open projects https://app.jogl.io/community/49
+4. CorrelAid data for good communities https://github.com/correlaid-paris 
 
-
-## Links 
-CorrelAid data for good communities https://github.com/correlaid-paris 
+# How to contribute?
+Making pull request and adding more content is always welcome to this "best practice"-guide.
